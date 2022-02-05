@@ -1,0 +1,4 @@
+com/mygdx/game/BetterRectangle.java
+ com.mygdx.game.BetterRectangle
+com/mygdx/game/ChangedDropGame.java
+ com.mygdx.game.ChangedDropGame
